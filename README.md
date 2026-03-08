@@ -6,6 +6,7 @@ ROT Independent Security Research Lab · Chennai, India
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3683--7824-brightgreen?style=flat-square&logo=orcid)](https://orcid.org/0009-0006-3683-7824)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18909538.svg)](https://doi.org/10.5281/zenodo.18909538)
 [![Figshare](https://img.shields.io/badge/Figshare-DOI-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.31566853)
+[![OSF](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FH7BVR-blue?style=flat-square)](https://doi.org/10.17605/OSF.IO/H7BVR)
 [![Website](https://img.shields.io/badge/rothackers.com-000000?style=flat-square&logo=firefox&logoColor=white)](https://rothackers.com)
 [![Portfolio](https://img.shields.io/badge/regaan.rothackers.com-000000?style=flat-square&logo=firefox&logoColor=white)](https://regaan.rothackers.com)
 [![X](https://img.shields.io/badge/@regaan__sec-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/regaan_sec)
@@ -39,6 +40,7 @@ Regaan · ROT Independent Security Research Lab · March 2026
 [![License](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)](https://github.com/regaan/basilisk/blob/main/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18909538.svg)](https://doi.org/10.5281/zenodo.18909538)
 [![Figshare](https://img.shields.io/badge/Figshare-DOI-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.31566853)
+[![OSF](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FH7BVR-blue?style=flat-square)](https://doi.org/10.17605/OSF.IO/H7BVR)
 
 Open-source framework for systematic adversarial security evaluation of Large Language Models using evolutionary computation.
 
