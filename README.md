@@ -38,6 +38,7 @@ Regaan · ROT Independent Security Research Lab · March 2026
 [![PyPI](https://img.shields.io/pypi/v/basilisk-ai?style=flat-square)](https://pypi.org/project/basilisk-ai/)
 [![License](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)](https://github.com/regaan/basilisk/blob/main/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18909538.svg)](https://doi.org/10.5281/zenodo.18909538)
+[![Figshare](https://img.shields.io/badge/Figshare-DOI-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.31566853)
 
 Open-source framework for systematic adversarial security evaluation of Large Language Models using evolutionary computation.
 
