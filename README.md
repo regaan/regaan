@@ -10,6 +10,8 @@ ROT Independent Security Research Lab · Chennai, India
 [![Website](https://img.shields.io/badge/rothackers.com-000000?style=flat-square&logo=firefox&logoColor=white)](https://rothackers.com)
 [![Portfolio](https://img.shields.io/badge/regaan.rothackers.com-000000?style=flat-square&logo=firefox&logoColor=white)](https://regaan.rothackers.com)
 [![X](https://img.shields.io/badge/@regaan__sec-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/regaan_sec)
+[![Mastodon](https://img.shields.io/badge/@regaan-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@regaan)
+[![Medium](https://img.shields.io/badge/@regaan-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@regaan)
 
 ---
 
