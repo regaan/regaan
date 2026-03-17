@@ -64,6 +64,8 @@ basilisk scan --target https://your-llm-endpoint.com --mode standard
 
 ### [WSHawk](https://github.com/regaan/wshawk) — WebSocket Security Scanner
 [![Stars](https://img.shields.io/github/stars/regaan/wshawk?style=flat-square)](https://github.com/regaan/wshawk/stargazers)
+[![License](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)](https://github.com/regaan/basilisk/blob/main/LICENSE)
+[![Downloads](https://pepy.tech/badge/wshawk)](https://pepy.tech/project/wshawk)
 
 Enterprise-grade distributed WebSocket security testing framework. 900+ repository clones · 120+ active developers.
 
