@@ -43,6 +43,7 @@ Regaan · ROT Independent Security Research Lab · March 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18909538.svg)](https://doi.org/10.5281/zenodo.18909538)
 [![Figshare](https://img.shields.io/badge/Figshare-DOI-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.31566853)
 [![OSF](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FH7BVR-blue?style=flat-square)](https://doi.org/10.17605/OSF.IO/H7BVR)
+[![Downloads](https://pepy.tech/badge/basilisk-ai)](https://pepy.tech/project/basilisk-ai)
 
 Open-source framework for systematic adversarial security evaluation of Large Language Models using evolutionary computation.
 
