@@ -1,8 +1,8 @@
 # ~/regaan_
 
-Security Researcher focused on AI/LLM Red Teaming and Protocol-Level Offensive Systems.
+Security Researcher focused on AI/LLM Red Teaming and Protocol Level Offensive Systems.
 
-I design and build operator-grade tooling for adversarial testing, stateful exploitation workflows, and large-scale security evaluation — with an emphasis on reproducibility, evidence integrity, and real-world usage.
+I design and build operator-grade tooling for adversarial testing, stateful exploitation workflows, and large-scale security evaluation - with an emphasis on reproducibility, evidence integrity, and real-world usage.
 
 Author of **Basilisk** (AI Red Teaming Framework) and **WSHawk v4** (project-based WebSocket & Web Pentest platform).
 
@@ -13,22 +13,22 @@ Based in Chennai, India.
 ## Focus Areas
 
 - **AI/LLM Security**
-  Adversarial prompt evolution, guardrail evaluation, and cross-model behavioral analysis.
+  Adversarial prompt evolution, guardrail evaluation, and cross model behavioral analysis.
 
 - **Stateful Offensive Testing**
-  Replay systems, AuthZ diffing, race-condition testing, and identity-driven attack workflows.
+  Replay systems, AuthZ diffing, race condition testing, and identity driven attack workflows.
 
 - **Protocol & Realtime Security**
-  WebSocket interception, mutation, and protocol-level fuzzing.
+  WebSocket interception, mutation, and protocol level fuzzing.
 
 - **Offensive Tooling Systems**
-  Building end-to-end platforms for discovery → exploitation → evidence generation.
+  Building end to end platforms for discovery → exploitation → evidence generation.
 
 ---
 
 ## Flagship Systems
 
-### Basilisk — Evolutionary AI Red Teaming Framework
+### Basilisk - Evolutionary AI Red Teaming Framework
 
 Framework for systematic security evaluation of LLMs using evolutionary techniques.
 
@@ -47,7 +47,7 @@ Move from static prompt testing → adaptive adversarial systems.
 
 ---
 
-### WSHawk v4 — WebSocket & Web Pentest Platform
+### WSHawk v4 - WebSocket & Web Pentest Platform
 
 WSHawk is a **project-based offensive security platform** designed for real-world assessments — not just scanning.
 
@@ -91,22 +91,22 @@ It is an **operator environment** designed to:
 
 ## Selected Systems & Experiments
 
-### ProtoCrash — Protocol Fuzzer
+### ProtoCrash - Protocol Fuzzer
 Coverage-guided mutation fuzzer for network protocol implementations, designed for high-throughput distributed environments.
 
 ---
 
-### PoCSmith — Exploit Research Assistant
+### PoCSmith - Exploit Research Assistant
 System for assisting proof-of-concept generation using vulnerability patterns and exploit structures.
 
 ---
 
-### RedLang — Security Research Language
+### RedLang - Security Research Language
 LLVM-based statically typed language for exploit development and low-level experimentation.
 
 ---
 
-### Keikaku — Interpreted Runtime
+### Keikaku - Interpreted Runtime
 Custom interpreted language with async execution and deterministic control flow.
 
 ---
@@ -141,7 +141,7 @@ Adversarial ML · Prompt Evolution · Model Evaluation
 
 ## Achievements
 
-- Published Researcher — Basilisk (Zenodo, 2026)  
+- Published Researcher - Basilisk (Zenodo, 2026)  
 - Certified Ethical Hacker (CEH)  
 - Speaker & Workshop Instructor (Offensive Security & Engineering)  
 
