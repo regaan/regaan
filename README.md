@@ -1,10 +1,8 @@
 # ~/regaan_
 
-Security Researcher focused on AI/LLM Red Teaming and Protocol Level Offensive Systems.
+Security Researcher focused on AI/LLM systems, protocol-level testing, and stateful offensive workflows.
 
-I design and build operator-grade tooling for adversarial testing, stateful exploitation workflows, and large-scale security evaluation - with an emphasis on reproducibility, evidence integrity, and real-world usage.
-
-Author of **Basilisk** (AI Red Teaming Framework) and **WSHawk v4** (project-based WebSocket & Web Pentest platform).
+I design and build offensive tooling used for adversarial evaluation, exploit development, and reproducible security research. My work focuses on breaking complex, stateful systems where traditional scanning fails.
 
 Based in Chennai, India.
 
@@ -12,17 +10,17 @@ Based in Chennai, India.
 
 ## Focus Areas
 
-- **AI/LLM Security**
-  Adversarial prompt evolution, guardrail evaluation, and cross model behavioral analysis.
+AI/LLM Security  
+Adversarial prompt generation, guardrail bypass testing, and cross-model behavior analysis with measurable outcomes.
 
-- **Stateful Offensive Testing**
-  Replay systems, AuthZ diffing, race condition testing, and identity driven attack workflows.
+Stateful Offensive Testing  
+Replay systems, authorization testing, race condition discovery, and identity-driven attack workflows.
 
-- **Protocol & Realtime Security**
-  WebSocket interception, mutation, and protocol level fuzzing.
+Protocol and Realtime Security  
+WebSocket interception, protocol manipulation, and structured fuzzing of realtime systems.
 
-- **Offensive Tooling Systems**
-  Building end to end platforms for discovery → exploitation → evidence generation.
+Offensive Tooling  
+End-to-end systems for discovery, exploitation, and evidence generation designed for actual operator workflows.
 
 ---
 
@@ -30,132 +28,115 @@ Based in Chennai, India.
 
 ### Basilisk - Evolutionary AI Red Teaming Framework
 
-Framework for systematic security evaluation of LLMs using evolutionary techniques.
+Basilisk is a framework for adversarial testing of LLMs using evolutionary techniques.
 
-Instead of static prompts, Basilisk evolves adversarial inputs across generations to uncover non-obvious failure modes.
+It generates and evolves attack prompts across iterations to uncover failure modes that static testing does not reach.
 
-**Core Concepts**
-- Genetic prompt evolution (mutation + crossover)
-- Multi-model differential testing
-- Structured attack modules (injection, leakage, tool misuse)
-- Automated discovery of behavioral inconsistencies
+Key capabilities:
+- Prompt mutation and crossover strategies
+- Differential testing across multiple models
+- Structured attack modules for injection, leakage, and tool misuse
+- Automated discovery of inconsistent and unsafe behaviors
 
-**Goal**
-Move from static prompt testing → adaptive adversarial systems.
+Outcome:
+Finds non-obvious jailbreak paths and behavioral gaps across models under realistic conditions.
 
-📄 Research: https://doi.org/10.5281/zenodo.18909538
-
----
-
-### WSHawk v4 - WebSocket & Web Pentest Platform
-
-WSHawk is a **project-based offensive security platform** designed for real-world assessments — not just scanning.
-
-It combines WebSocket testing, HTTP pentesting, replay systems, and evidence tracking into a single operator workflow.
-
-#### Key Capabilities
-
-- **Project-Based Workflow**
-  Stores identities, traffic, findings, notes, and attack results in a single environment.
-
-- **WebSocket Interception & Manipulation**
-  Frame-level interception, editing, replay, and live protocol testing.
-
-- **Replay & Stateful Attack System**
-  - Request replay  
-  - AuthZ differential testing  
-  - Race condition testing  
-
-- **Identity-Aware Testing**
-  Capture and reuse authenticated sessions across workflows.
-
-- **Payload Mutation & Fuzzing**
-  High-volume payload execution with mutation strategies.
-
-- **Integrated Web Pentest Suite**
-  Discovery, HTTP replay, attack workflows, and analysis tools.
-
-- **Evidence Vault**
-  Structured evidence tracking with exportable bundles (JSON, HTML, Markdown) including integrity metadata.
-
-#### What Makes It Different
-
-WSHawk is not a scanner.
-
-It is an **operator environment** designed to:
-- move from discovery → exploitation → validation  
-- preserve reproducibility  
-- generate defensible evidence  
+Research:
+https://doi.org/10.5281/zenodo.18909538
 
 ---
 
-## Selected Systems & Experiments
+### WSHawk v4 - WebSocket and Web Pentest Platform
 
-### ProtoCrash - Protocol Fuzzer
-Coverage-guided mutation fuzzer for network protocol implementations, designed for high-throughput distributed environments.
+WSHawk is a project-based offensive platform built for real assessments, not one-off testing.
+
+It allows testers to move from traffic capture to exploitation and evidence generation inside a single workflow.
+
+Key capabilities:
+- Centralized project environment for identities, traffic, and findings
+- WebSocket frame interception, editing, and replay
+- Stateful replay system for authorization testing and race conditions
+- Identity-aware testing with reusable authenticated sessions
+- Payload mutation and high-volume execution
+- Integrated HTTP testing and attack workflows
+- Evidence vault with structured export and integrity tracking
+
+Why it matters:
+Removes fragmented tooling and enables repeatable, stateful attack workflows with defensible outputs.
 
 ---
 
-### PoCSmith - Exploit Research Assistant
-System for assisting proof-of-concept generation using vulnerability patterns and exploit structures.
+## Selected Systems
 
----
+ProtoCrash  
+Coverage-guided protocol fuzzer designed for high-throughput distributed environments.
 
-### RedLang - Security Research Language
-LLVM-based statically typed language for exploit development and low-level experimentation.
+PoCSmith  
+System for generating proof-of-concept exploits based on vulnerability patterns.
 
----
+RedLang  
+Statically typed language built on LLVM for exploit development and low-level experimentation.
 
-### Keikaku - Interpreted Runtime
-Custom interpreted language with async execution and deterministic control flow.
+Keikaku  
+Custom interpreted runtime with async execution and deterministic control flow.
 
 ---
 
 ## Technical Stack
 
-**Languages**  
-Go · C · C++ · Python · TypeScript  
+Languages  
+Go, C, C++, Python, TypeScript
 
-**Core Areas**  
-Fuzzing · Web Security · WebSocket Protocols · LLM Red Teaming  
+Core Areas  
+Fuzzing, Web Security, WebSocket Protocols, LLM Red Teaming
 
-**Systems**  
-Linux Internals · TCP/IP · LLVM · Bytecode VMs  
+Systems  
+Linux Internals, TCP/IP, LLVM, Bytecode Virtual Machines
 
-**Infrastructure**  
-Docker · Redis · PostgreSQL · GitHub Actions  
+Infrastructure  
+Docker, Redis, PostgreSQL, GitHub Actions
 
-**AI/ML**  
-Adversarial ML · Prompt Evolution · Model Evaluation  
+AI and ML  
+Adversarial machine learning, prompt evolution, model evaluation
 
 ---
 
 ## Work Approach
 
-- Build tools that reflect real operator workflows  
-- Prioritize reproducibility over one-off findings  
-- Treat evidence as a first-class output  
-- Focus on stateful systems, not just stateless scanning  
+Build systems that reflect real offensive workflows  
+Prioritize reproducibility over one-off findings  
+Treat evidence as a core output  
+Focus on stateful systems and complex attack surfaces
 
 ---
 
 ## Achievements
 
-- Published Researcher - Basilisk (Zenodo, 2026)  
-- Certified Ethical Hacker (CEH)  
-- Speaker & Workshop Instructor (Offensive Security & Engineering)  
+Published Researcher  
+Basilisk, Zenodo, 2026
+
+Certified Ethical Hacker
+
+Speaker and Workshop Instructor in offensive security and engineering
 
 ---
 
 ## Connect
 
-- Website: https://rothackers.com  
-- GitHub: https://github.com/regaan  
-- Twitter/X: https://x.com/regaan_sec  
-- LinkedIn: https://linkedin.com/in/regaan  
+Website  
+https://rothackers.com
+
+GitHub  
+https://github.com/regaan
+
+Twitter  
+https://x.com/regaan_sec
+
+LinkedIn  
+https://linkedin.com/in/regaan
 
 ---
 
 ## Note
 
-All research and tooling are developed and tested in authorized environments only.
+All work is conducted in authorized environments only.
