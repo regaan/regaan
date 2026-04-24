@@ -26,26 +26,44 @@ End-to-end systems for discovery, exploitation, and evidence generation designed
 
 ## Flagship Systems
 
-### Basilisk - Evolutionary AI Red Teaming Framework
+### Basilisk — Evolutionary AI Red Teaming Framework
 
-Basilisk is a framework for adversarial testing of LLMs using evolutionary techniques.
+Basilisk is a framework for adversarial testing of large language models using evolutionary techniques.
 
 It generates and evolves attack prompts across iterations to uncover failure modes that static testing does not reach.
 
-Key capabilities:
-- Prompt mutation and crossover strategies
-- Differential testing across multiple models
-- Structured attack modules for injection, leakage, and tool misuse
-- Automated discovery of inconsistent and unsafe behaviors
+**Key capabilities**
+- Prompt mutation and crossover strategies  
+- Differential testing across multiple models  
+- Structured attack modules (injection, leakage, tool misuse)  
+- Automated discovery of inconsistent and unsafe behaviors  
 
-Outcome:
+**Outcome**  
 Finds non-obvious jailbreak paths and behavioral gaps across models under realistic conditions.
 
-Research:
-- SSRN Preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6373439
-- DOI (SSRN): https://doi.org/10.2139/ssrn.6373439
-- Zenodo Archive: https://doi.org/10.5281/zenodo.18909538
+---
 
+### Research
+
+- SSRN Preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6373439  
+- DOI: https://doi.org/10.2139/ssrn.6373439  
+- Zenodo Archive: https://doi.org/10.5281/zenodo.18909538  
+
+---
+
+### Citation
+
+Regaan R. *Basilisk: An Evolutionary AI Red-Teaming Framework for Systematic Security Evaluation of Large Language Models*. SSRN Electronic Journal, 2026. https://doi.org/10.2139/ssrn.6373439
+
+```bibtex
+@article{regaan2026basilisk,
+  title={Basilisk: An Evolutionary AI Red-Teaming Framework for Systematic Security Evaluation of Large Language Models},
+  author={Regaan, R},
+  journal={SSRN Electronic Journal},
+  year={2026},
+  doi={10.2139/ssrn.6373439}
+}
+```
 ---
 
 ### WSHawk v4 - WebSocket and Web Pentest Platform
