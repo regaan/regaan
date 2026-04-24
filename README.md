@@ -42,7 +42,9 @@ Outcome:
 Finds non-obvious jailbreak paths and behavioral gaps across models under realistic conditions.
 
 Research:
-https://doi.org/10.5281/zenodo.18909538
+- SSRN Preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6373439
+- DOI (SSRN): https://doi.org/10.2139/ssrn.6373439
+- Zenodo Archive: https://doi.org/10.5281/zenodo.18909538
 
 ---
 
